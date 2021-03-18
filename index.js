@@ -2,29 +2,29 @@ function add(a,b) {
   return a + b;
 }
 
-function substract(2,1) {
-  return 2 - 1;
+function substract(a,b) {
+  return a - b;
 }
 
-function multiply(2,5){
-  return 2 * 5;
+function multiply(a,b){
+  return a * b;
 }
 
-function divide(10,2) {
+function divide(a,b) {
   return 10 / 2;
 }
 
-function inc(10)  {
-  return 10 += 1;
+function inc(n)  {
+  return n += 1;
 }
 
-function dec(10)  {
-  return 10 -= 1;
+function dec(n)  {
+  return n -= 1;
 }
-function makeInt(5) {
-  return parseInt(5, 10);
+function makeInt(n) {
+  return parseInt(n, 10);
 }
 
-function preserveDecimal(5.123) {
-  return parseFloat(5.123);
+function preserveDecimal(n) {
+  return parseFloat(n);
 }
