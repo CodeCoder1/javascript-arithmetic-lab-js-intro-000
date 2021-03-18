@@ -17,3 +17,7 @@ function divide(10,2) {
 function inc(10)  {
   return 10 += 1;
 }
+
+function dec(10)  {
+  return 10 -= 1;
+}
