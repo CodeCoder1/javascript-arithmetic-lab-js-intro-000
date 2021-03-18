@@ -1,7 +1,7 @@
-add (1 + 80)
+function add(5,7) { 
+  return 5 + 7;
+}
 
-substract (60 - 40)
-
-multiply (2 * 3.4)
-
-divide (10 / 2 )
+function substract(2,1) {
+  return 2 - 1;
+}
