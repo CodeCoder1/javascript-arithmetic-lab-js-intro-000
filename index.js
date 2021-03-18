@@ -21,3 +21,6 @@ function inc(10)  {
 function dec(10)  {
   return 10 -= 1;
 }
+function makeInt(5) {
+  return parseInt(5, 10);
+}
